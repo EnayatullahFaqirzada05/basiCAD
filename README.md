@@ -14,12 +14,12 @@ Thats the 3 part of the caster and this one was the hard one for me and I learne
 ![Tux, the Linux mascot](https://github.com/EnayatullahFaqirzada05/basiCAD/blob/master/images/Screenshot%202020-10-29%20231142.png?raw=true)
 
 ## Tier
-This is the 4 part of the caster and I learned how to use the lines and I used alot of dimensions .
+This is the 4 part of the caster and I learned how to use the lines and I used alot of dimensions to make all th pats equal and make sure all the lines are black.
 ![Tux, the Linux mascot](https://github.com/EnayatullahFaqirzada05/basiCAD/blob/master/images/Screenshot%202020-10-29%20232622.png?raw=true)
 
 
 ## Wheel, Bearing
-The 5 part of the caster project, making the wheel's was the hard one and I spend a lot of time on it.
+The 5 part of the caster project, making the wheel's was the hard one and I spend a lot of time on it because it was hard to make all the lines equal so it fit's the tier.
 ![Tux, the Linux mascot](https://github.com/EnayatullahFaqirzada05/basiCAD/blob/master/images/Screenshot%202020-10-31%20151835.png?raw=true)
 
 
@@ -31,5 +31,5 @@ This is the 6 part of the caster and I learned cuting and adding the 2 part.
 
 
 ## Big Bearing
-This one is the last part of the caster and it was the easiest one.
+This is the last part of the caster and it was the easiest one and I used a lot of circles.
 ![Tux, the Linux mascot](https://github.com/EnayatullahFaqirzada05/basiCAD/blob/master/images/Screenshot%202020-10-31%20165746.png?raw=true)
