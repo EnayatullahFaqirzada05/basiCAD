@@ -33,3 +33,15 @@ This is the 6 part of the caster and I learned cuting and adding the 2 part.
 ## Big Bearing
 This is the last part of the caster and it was the easiest one and I used a lot of circles.
 ![Tux, the Linux mascot](https://github.com/EnayatullahFaqirzada05/basiCAD/blob/master/images/Screenshot%202020-10-31%20165746.png?raw=true)
+
+
+
+## Sub Assembly
+This is the Sub Assebly and I put the Tire, Wheel and bearing together.
+![Tux, the Linux mascot](https://github.com/EnayatullahFaqirzada05/basiCAD/blob/master/images/sub%20assembly.png?raw=true)
+
+
+
+## Assembly
+This is the Assembly, I made all the parts and put all the parts together and I faced some problems because some of them dosen't fit to other ones.
+![Tux, the Linux mascot](https://github.com/EnayatullahFaqirzada05/basiCAD/blob/master/images/Assembly.png?raw=true)
